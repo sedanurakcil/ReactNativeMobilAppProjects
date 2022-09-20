@@ -52,7 +52,8 @@ export default StyleSheet.create(
 
         },
         content_container:{
-            flexDirection:'row'
+            flexDirection:'row',
+           
         },
         
     }

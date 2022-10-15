@@ -1,13 +1,14 @@
 import React from "react";
-import { SafeAreaView,View,Text, FlatList} from "react-native";
+import { SafeAreaView,View, FlatList} from "react-native";
 
 import Loading from "../../components/Loading";
 import Error from "../../components/Error";
 import ProductCard from "../../components/ProductCard";
 import useFetch from "../../hooks/useFetch";
-
+import { useDispatch } from "react-redux";
 
 const Product = ({navigation}) => {
+     const dispatch = useDispatch()
 
     const url = "https://fakestoreapi.com/products";
     
@@ -28,9 +29,13 @@ const Product = ({navigation}) => {
     if(error){
         return <Error/>
     }
+   
 
-    return(  <FlatList data = {data} renderItem ={renderProduct}/>
+    return(  
+    <View>
        
+        <FlatList data = {data} renderItem ={renderProduct}/>
+    </View>
     )
 }
 

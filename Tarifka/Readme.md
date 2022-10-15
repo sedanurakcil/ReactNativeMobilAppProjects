@@ -9,7 +9,7 @@ Tools
 ===
 . API
 . Custom Hook
-. Navigaiton
+. Navigation
 
 
 Featurs

@@ -15,7 +15,7 @@ ScreenShots
 
 Jobs Page
 ==
-!['Alt text'](/screenShots/Png_1.png?raw=true "Jobs")
+!['Alt text'](/kodwork/screenShots/Png_1.png?raw=true "Jobs")
 
 Jobs Detail Page
 ==

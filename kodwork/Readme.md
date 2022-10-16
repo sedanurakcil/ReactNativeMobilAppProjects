@@ -19,17 +19,17 @@ Jobs Page
 
 Jobs Detail Page
 ==
-![Alt text](/screenShots/Png_2.png?raw=true "Jobs Detail")
+!['Alt text'](/screenShots/Png_2.png?raw=true "Jobs Detail")
 
 Buttons
 ==
-![Alt text](/screenShots/Png_3.png?raw=true "Buttons")
+!['Alt text'](/screenShots/Png_3.png?raw=true "Buttons")
 
 Drawer Component
 ==
-![Alt text](/screenShots/Png_4.png?raw=true "Drawer 
+!['Alt text'](/screenShots/Png_4.png?raw=true "Drawer 
 Window")
 
 Favorite Page
 ==
-![Alt text](/screenShots/Png_5.png?raw=true "Favorite Jobs Page")
+!['Alt text'](/screenShots/Png_5.png?raw=true "Favorite Jobs Page")
